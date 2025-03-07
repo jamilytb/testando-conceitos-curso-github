@@ -1,0 +1,7 @@
+git init . = cria um repositorio git dentro da pasta
+
+git status 
+
+git add
+
+git commit -m =
