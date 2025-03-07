@@ -1,4 +1,4 @@
 cd .. =
 ls =
-ls -a = mostra ocultos
+ls -a = mostra itens ocultos
 
