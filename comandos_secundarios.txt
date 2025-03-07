@@ -1,1 +1,3 @@
 Arquivo criado após criar a branch secundária no terminal branch
+
+teste 1 e teste 2
